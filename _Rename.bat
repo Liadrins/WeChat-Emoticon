@@ -1,0 +1,1 @@
+for /r %%a in (*) do if "%%~xa"=="" ren "%%~a" "%%~na.gif"
